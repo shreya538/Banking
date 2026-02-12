@@ -41,6 +41,10 @@ com.wipro.bank
 │
 └── main
     └── BankMain.java
+
+    
 <img width="794" height="166" alt="image" src="https://github.com/user-attachments/assets/dec69a2d-f9b2-46ad-b140-44a394b720a7" />
+
+
 <img width="655" height="122" alt="image" src="https://github.com/user-attachments/assets/9da20052-1105-490f-8815-55b271feaeef" />
 
